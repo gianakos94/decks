@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "en": {
+    "taboo": [
+      {"t": "ISLAND", "w": ["SEA", "VACATION", "BY BOAT", "HARBOR"]},
+      {"t": "PIZZA", "w": ["CHEESE", "ITALY", "SLICE", "ROUND"]},
+      {"t": "GUITAR", "w": ["STRINGS", "MUSIC", "ROCK", "PLAY"]},
+      {"t": "SNOWMAN", "w": ["WINTER", "CARROT", "COLD", "SNOW"]},
+      {"t": "DOCTOR", "w": ["HOSPITAL", "SICK", "MEDICINE", "NURSE"]},
+      {"t": "BEACH", "w": ["SAND", "SUN", "WAVES", "TOWEL"]}
+    ],
+    "panto": [
+      "RIDING A HORSE",
+      "FISHING AT SEA",
+      "PLAYING TENNIS",
+      "CLIMBING A LADDER",
+      "TAKING A SELFIE",
+      "WASHING THE DISHES",
+      "SCARED OF A SPIDER",
+      "CONDUCTING AN ORCHESTRA",
+      "BLOWING UP A BALLOON",
+      "TYING YOUR SHOELACES",
+      "CATCHING A BUTTERFLY",
+      "ROWING A BOAT"
+    ],
+    "movies": [
+      "TITANIC",
+      "JAWS",
+      "HARRY POTTER",
+      "THE LION KING",
+      "STAR WARS",
+      "SPIDER-MAN",
+      "ROCKY",
+      "JURASSIC PARK",
+      "FROZEN",
+      "THE MATRIX",
+      "SHREK",
+      "FINDING NEMO",
+      "PIRATES OF THE CARIBBEAN",
+      "KING KONG",
+      "ZORBA THE GREEK",
+      "MAMMA MIA!"
+    ],
+    "paint": [
+      "A HORSE IS RUNNING",
+      "EATING SPICY PIZZA",
+      "BRUSHING YOUR TEETH",
+      "A CAT ON THE ROOF",
+      "DANCING IN THE RAIN",
+      "FLYING A KITE"
+    ],
+    "list": [
+      {"t": "10 THINGS AT THE BEACH", "items": ["UMBRELLA", "WATER", "TOWEL", "SUNSCREEN", "SUNGLASSES", "HAT", "BEACH BALL", "FLIP FLOPS", "SNORKEL MASK", "COOLER"]},
+      {"t": "10 THINGS IN THE KITCHEN", "items": ["FRIDGE", "OVEN", "KNIFE", "PLATE", "SPOON", "POT", "PAN", "GLASS", "FORK", "SINK"]},
+      {"t": "10 FRUITS", "items": ["APPLE", "BANANA", "ORANGE", "GRAPE", "MELON", "CHERRY", "LEMON", "PEAR", "PEACH", "STRAWBERRY"]},
+      {"t": "10 ANIMAL NAMES", "items": ["DOG", "CAT", "LION", "TIGER", "HORSE", "COW", "SHEEP", "RABBIT", "BEAR", "ELEPHANT"]},
+      {"t": "10 SCHOOL SUPPLIES", "items": ["PENCIL", "PEN", "ERASER", "RULER", "BOOK", "NOTEBOOK", "BACKPACK", "MARKER", "GLUE", "SCISSORS"]},
+      {"t": "10 WINTER THINGS", "items": ["SNOW", "JACKET", "SCARF", "GLOVES", "BOOTS", "BEANIE", "FIREPLACE", "HOT COCOA", "SLED", "ICE"]}
+    ],
+    "spicy": {
+      "taboo": [
+        {"t": "FIRST DATE", "w": ["DINNER", "NERVOUS", "KISS", "MEET"]},
+        {"t": "KISS", "w": ["LIPS", "LOVE", "MOUTH", "CHEEK"]},
+        {"t": "CRUSH", "w": ["LIKE", "SECRET", "LOVE", "HEART"]},
+        {"t": "HICKEY", "w": ["NECK", "MARK", "KISS", "BITE"]},
+        {"t": "LINGERIE", "w": ["UNDERWEAR", "LACE", "SEXY", "BRA"]},
+        {"t": "EX", "w": ["BOYFRIEND", "GIRLFRIEND", "BREAK UP", "PAST"]},
+        {"t": "DATING APP", "w": ["SWIPE", "MATCH", "PROFILE", "PHONE"]},
+        {"t": "HANGOVER", "w": ["DRINK", "HEADACHE", "MORNING", "PARTY"]},
+        {"t": "SKINNY DIPPING", "w": ["NAKED", "SWIM", "SEA", "NIGHT"]},
+        {"t": "BACHELOR PARTY", "w": ["WEDDING", "GROOM", "FRIENDS", "LAST NIGHT"]},
+        {"t": "FLIRT", "w": ["CHAT", "CUTE", "WINK", "SMILE"]},
+        {"t": "STRIPTEASE", "w": ["DANCE", "CLOTHES", "TAKE OFF", "MUSIC"]}
+      ],
+      "panto": [
+        "SLOW DANCING",
+        "BLOWING A KISS",
+        "FLIRTING AT A BAR",
+        "PUTTING ON LIPSTICK",
+        "WINKING AT SOMEONE",
+        "PROPOSING ON ONE KNEE",
+        "A SEXY CATWALK",
+        "SNEAKING OUT AT NIGHT",
+        "A ROMANTIC DINNER",
+        "TAKING A BUBBLE BATH",
+        "GETTING CAUGHT KISSING",
+        "DRUNK TEXTING YOUR EX"
+      ],
+      "paint": [
+        "A LOVE LETTER",
+        "A KISS UNDER THE MISTLETOE",
+        "A HEART-SHAPED BED",
+        "LIPSTICK ON A COLLAR",
+        "A NUDIST BEACH",
+        "A HONEYMOON",
+        "A BIKINI",
+        "CUPID'S ARROW",
+        "A HOT TUB",
+        "BREAKFAST IN BED"
+      ],
+      "list": [
+        {"t": "10 THINGS ON A FIRST DATE", "items": ["FLOWERS", "DINNER", "WINE", "CANDLES", "PERFUME", "KISS", "COMPLIMENT", "NERVES", "THE BILL", "GOODNIGHT"]},
+        {"t": "10 ROMANTIC MOVIES", "items": ["TITANIC", "THE NOTEBOOK", "PRETTY WOMAN", "DIRTY DANCING", "GREASE", "GHOST", "LA LA LAND", "NOTTING HILL", "MAMMA MIA!", "ROMAN HOLIDAY"]},
+        {"t": "10 PET NAMES FOR YOUR PARTNER", "items": ["BABE", "HONEY", "SWEETIE", "DARLING", "BABY", "SUGAR", "CUTIE", "LOVE", "HANDSOME", "GORGEOUS"]},
+        {"t": "10 PLACES TO KISS", "items": ["BEACH", "CAR", "CINEMA", "PARK", "ELEVATOR", "BALCONY", "CLUB", "TAXI", "KITCHEN", "IN THE RAIN"]},
+        {"t": "10 THINGS AT A BACHELOR PARTY", "items": ["DRINKS", "MUSIC", "DANCING", "VEIL", "SHOTS", "BALLOONS", "COSTUMES", "GAMES", "CAKE", "PHOTOS"]},
+        {"t": "10 THINGS IN A DATING PROFILE", "items": ["PHOTO", "AGE", "BIO", "JOB", "HEIGHT", "HOBBIES", "PETS", "MUSIC", "TRAVEL", "EMOJI"]}
+      ]
+    }
+  },
+  "el": {
+    "taboo": [
+      {"t": "ΝΗΣΙ", "w": ["ΘΑΛΑΣΣΑ", "ΔΙΑΚΟΠΕΣ", "ΚΑΡΑΒΙ", "ΛΙΜΑΝΙ"]},
+      {"t": "ΠΙΤΣΑ", "w": ["ΤΥΡΙ", "ΙΤΑΛΙΑ", "ΚΟΜΜΑΤΙ", "ΣΤΡΟΓΓΥΛΗ"]},
+      {"t": "ΚΙΘΑΡΑ", "w": ["ΧΟΡΔΕΣ", "ΜΟΥΣΙΚΗ", "ΡΟΚ", "ΠΑΙΖΩ"]},
+      {"t": "ΧΙΟΝΑΝΘΡΩΠΟΣ", "w": ["ΧΕΙΜΩΝΑΣ", "ΚΑΡΟΤΟ", "ΚΡΥΟ", "ΧΙΟΝΙ"]},
+      {"t": "ΓΙΑΤΡΟΣ", "w": ["ΝΟΣΟΚΟΜΕΙΟ", "ΑΡΡΩΣΤΟΣ", "ΦΑΡΜΑΚΟ", "ΝΟΣΟΚΟΜΑ"]},
+      {"t": "ΠΑΡΑΛΙΑ", "w": ["ΑΜΜΟΣ", "ΗΛΙΟΣ", "ΚΥΜΑΤΑ", "ΠΕΤΣΕΤΑ"]}
+    ],
+    "panto": [
+      "ΚΑΒΑΛΑΩ ΑΛΟΓΟ",
+      "ΨΑΡΕΜΑ ΣΤΗ ΘΑΛΑΣΣΑ",
+      "ΠΑΙΖΩ ΤΕΝΙΣ",
+      "ΑΝΕΒΑΙΝΩ ΣΚΑΛΑ",
+      "ΒΓΑΖΩ ΣΕΛΦΙ",
+      "ΠΛΕΝΩ ΠΙΑΤΑ",
+      "ΦΟΒΑΜΑΙ ΜΙΑ ΑΡΑΧΝΗ",
+      "ΔΙΕΥΘΥΝΩ ΟΡΧΗΣΤΡΑ",
+      "ΦΟΥΣΚΩΝΩ ΜΠΑΛΟΝΙ",
+      "ΔΕΝΩ ΤΑ ΚΟΡΔΟΝΙΑ",
+      "ΠΙΑΝΩ ΜΙΑ ΠΕΤΑΛΟΥΔΑ",
+      "ΚΩΠΗΛΑΤΩ ΒΑΡΚΑ"
+    ],
+    "movies": [
+      "ΤΙΤΑΝΙΚΟΣ",
+      "ΤΑ ΣΑΓΟΝΙΑ ΤΟΥ ΚΑΡΧΑΡΙΑ",
+      "ΧΑΡΙ ΠΟΤΕΡ",
+      "Ο ΒΑΣΙΛΙΑΣ ΤΩΝ ΛΙΟΝΤΑΡΙΩΝ",
+      "ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ",
+      "ΣΠΑΪΝΤΕΡΜΑΝ",
+      "ΡΟΚΙ",
+      "ΤΖΟΥΡΑΣΙΚ ΠΑΡΚ",
+      "ΨΥΧΡΑ ΚΙ ΑΝΑΠΟΔΑ",
+      "ΜΑΤΡΙΞ",
+      "ΣΡΕΚ",
+      "ΨΑΧΝΟΝΤΑΣ ΤΟΝ ΝΕΜΟ",
+      "ΟΙ ΠΕΙΡΑΤΕΣ ΤΗΣ ΚΑΡΑΪΒΙΚΗΣ",
+      "ΚΙΝΓΚ ΚΟΝΓΚ",
+      "ΑΛΕΞΗΣ ΖΟΡΜΠΑΣ",
+      "MAMMA MIA!"
+    ],
+    "paint": [
+      "ΕΝΑ ΑΛΟΓΟ ΤΡΕΧΕΙ",
+      "ΤΡΩΩ ΚΑΥΤΕΡΗ ΠΙΤΣΑ",
+      "ΒΟΥΡΤΣΙΖΩ ΤΑ ΔΟΝΤΙΑ",
+      "ΓΑΤΑ ΣΤΗ ΣΤΕΓΗ",
+      "ΧΟΡΕΥΩ ΣΤΗ ΒΡΟΧΗ",
+      "ΠΕΤΑΩ ΧΑΡΤΑΕΤΟ"
+    ],
+    "list": [
+      {"t": "10 ΠΡΑΓΜΑΤΑ ΣΤΗΝ ΠΑΡΑΛΙΑ", "items": ["ΟΜΠΡΕΛΑ", "ΝΕΡΟ", "ΠΕΤΣΕΤΑ", "ΑΝΤΗΛΙΑΚΟ", "ΓΥΑΛΙΑ ΗΛΙΟΥ", "ΚΑΠΕΛΟ", "ΜΠΑΛΑ", "ΣΑΓΙΟΝΑΡΕΣ", "ΜΑΣΚΑ", "ΦΟΡΗΤΟ ΨΥΓΕΙΟ"]},
+      {"t": "10 ΠΡΑΓΜΑΤΑ ΣΤΗΝ ΚΟΥΖΙΝΑ", "items": ["ΨΥΓΕΙΟ", "ΦΟΥΡΝΟΣ", "ΜΑΧΑΙΡΙ", "ΠΙΑΤΟ", "ΚΟΥΤΑΛΙ", "ΚΑΤΣΑΡΟΛΑ", "ΤΗΓΑΝΙ", "ΠΟΤΗΡΙ", "ΠΙΡΟΥΝΙ", "ΝΕΡΟΧΥΤΗΣ"]},
+      {"t": "10 ΦΡΟΥΤΑ", "items": ["ΜΗΛΟ", "ΜΠΑΝΑΝΑ", "ΠΟΡΤΟΚΑΛΙ", "ΣΤΑΦΥΛΙ", "ΠΕΠΟΝΙ", "ΚΕΡΑΣΙ", "ΛΕΜΟΝΙ", "ΑΧΛΑΔΙ", "ΡΟΔΑΚΙΝΟ", "ΦΡΑΟΥΛΑ"]},
+      {"t": "10 ΟΝΟΜΑΤΑ ΖΩΩΝ", "items": ["ΣΚΥΛΟΣ", "ΓΑΤΑ", "ΛΙΟΝΤΑΡΙ", "ΤΙΓΡΗ", "ΑΛΟΓΟ", "ΑΓΕΛΑΔΑ", "ΠΡΟΒΑΤΟ", "ΚΟΥΝΕΛΙ", "ΑΡΚΟΥΔΑ", "ΕΛΕΦΑΝΤΑΣ"]},
+      {"t": "10 ΣΧΟΛΙΚΑ ΕΙΔΗ", "items": ["ΜΟΛΥΒΙ", "ΣΤΥΛΟ", "ΓΟΜΑ", "ΧΑΡΑΚΑΣ", "ΒΙΒΛΙΟ", "ΤΕΤΡΑΔΙΟ", "ΤΣΑΝΤΑ", "ΜΑΡΚΑΔΟΡΟΣ", "ΚΟΛΛΑ", "ΨΑΛΙΔΙ"]},
+      {"t": "10 ΧΕΙΜΩΝΙΑΤΙΚΑ ΠΡΑΓΜΑΤΑ", "items": ["ΧΙΟΝΙ", "ΜΠΟΥΦΑΝ", "ΚΑΣΚΟΛ", "ΓΑΝΤΙΑ", "ΜΠΟΤΕΣ", "ΣΚΟΥΦΟΣ", "ΤΖΑΚΙ", "ΖΕΣΤΗ ΣΟΚΟΛΑΤΑ", "ΕΛΚΗΘΡΟ", "ΠΑΓΟΣ"]}
+    ],
+    "spicy": {
+      "taboo": [
+        {"t": "ΠΡΩΤΟ ΡΑΝΤΕΒΟΥ", "w": ["ΔΕΙΠΝΟ", "ΑΓΧΟΣ", "ΦΙΛΙ", "ΓΝΩΡΙΜΙΑ"]},
+        {"t": "ΦΙΛΙ", "w": ["ΧΕΙΛΗ", "ΑΓΑΠΗ", "ΣΤΟΜΑ", "ΜΑΓΟΥΛΟ"]},
+        {"t": "ΚΑΨΟΥΡΑ", "w": ["ΜΟΥ ΑΡΕΣΕΙ", "ΜΥΣΤΙΚΟ", "ΕΡΩΤΑΣ", "ΚΑΡΔΙΑ"]},
+        {"t": "ΠΙΠΙΛΙΑ", "w": ["ΛΑΙΜΟΣ", "ΣΗΜΑΔΙ", "ΦΙΛΙ", "ΔΑΓΚΩΜΑ"]},
+        {"t": "ΕΣΩΡΟΥΧΑ", "w": ["ΔΑΝΤΕΛΑ", "ΣΕΞΙ", "ΣΟΥΤΙΕΝ", "ΚΙΛΟΤΑ"]},
+        {"t": "ΠΡΩΗΝ", "w": ["ΧΩΡΙΣΜΟΣ", "ΣΧΕΣΗ", "ΠΑΡΕΛΘΟΝ", "ΑΓΟΡΙ"]},
+        {"t": "ΕΦΑΡΜΟΓΗ ΓΝΩΡΙΜΙΩΝ", "w": ["ΣΟΥΑΪΠ", "MATCH", "ΠΡΟΦΙΛ", "ΚΙΝΗΤΟ"]},
+        {"t": "ΧΑΝΓΚΟΒΕΡ", "w": ["ΠΟΤΟ", "ΠΟΝΟΚΕΦΑΛΟΣ", "ΠΡΩΙ", "ΠΑΡΤΙ"]},
+        {"t": "ΓΥΜΝΗ ΒΟΥΤΙΑ", "w": ["ΓΥΜΝΟΣ", "ΚΟΛΥΜΠΙ", "ΘΑΛΑΣΣΑ", "ΝΥΧΤΑ"]},
+        {"t": "ΜΠΑΤΣΕΛΟΡ", "w": ["ΓΑΜΟΣ", "ΓΑΜΠΡΟΣ", "ΦΙΛΟΙ", "ΤΕΛΕΥΤΑΙΑ"]},
+        {"t": "ΦΛΕΡΤ", "w": ["ΚΟΥΒΕΝΤΑ", "ΧΑΜΟΓΕΛΟ", "ΚΛΕΙΝΩ ΤΟ ΜΑΤΙ", "ΓΟΗΤΕΙΑ"]},
+        {"t": "ΣΤΡΙΠΤΙΖ", "w": ["ΧΟΡΟΣ", "ΡΟΥΧΑ", "ΒΓΑΖΩ", "ΜΟΥΣΙΚΗ"]}
+      ],
+      "panto": [
+        "ΧΟΡΕΥΩ ΜΠΛΟΥΖ",
+        "ΣΤΕΛΝΩ ΦΙΛΑΚΙ",
+        "ΦΛΕΡΤΑΡΩ ΣΤΟ ΜΠΑΡ",
+        "ΒΑΖΩ ΚΡΑΓΙΟΝ",
+        "ΚΛΕΙΝΩ ΤΟ ΜΑΤΙ ΣΕ ΚΑΠΟΙΟΝ",
+        "ΚΑΝΩ ΠΡΟΤΑΣΗ ΓΑΜΟΥ",
+        "ΣΕΞΙ ΠΕΡΠΑΤΗΜΑ ΣΤΗΝ ΠΑΣΑΡΕΛΑ",
+        "ΤΟ ΣΚΑΩ ΚΡΥΦΑ ΤΗ ΝΥΧΤΑ",
+        "ΡΟΜΑΝΤΙΚΟ ΔΕΙΠΝΟ",
+        "ΚΑΝΩ ΑΦΡΟΛΟΥΤΡΟ",
+        "ΜΕ ΠΙΑΝΟΥΝ ΝΑ ΦΙΛΙΕΜΑΙ",
+        "ΜΕΘΥΣΜΕΝΟΣ ΣΤΕΛΝΩ ΣΤΟΝ ΠΡΩΗΝ"
+      ],
+      "paint": [
+        "ΕΡΩΤΙΚΟ ΓΡΑΜΜΑ",
+        "ΦΙΛΙ ΚΑΤΩ ΑΠΟ ΤΟ ΓΚΙ",
+        "ΚΡΕΒΑΤΙ ΣΕ ΣΧΗΜΑ ΚΑΡΔΙΑΣ",
+        "ΚΡΑΓΙΟΝ ΣΤΟ ΓΙΑΚΑ",
+        "ΠΑΡΑΛΙΑ ΓΥΜΝΙΣΤΩΝ",
+        "ΜΗΝΑΣ ΤΟΥ ΜΕΛΙΤΟΣ",
+        "ΜΠΙΚΙΝΙ",
+        "ΤΟ ΒΕΛΟΣ ΤΟΥ ΕΡΩΤΑ",
+        "ΤΖΑΚΟΥΖΙ",
+        "ΠΡΩΙΝΟ ΣΤΟ ΚΡΕΒΑΤΙ"
+      ],
+      "list": [
+        {"t": "10 ΠΡΑΓΜΑΤΑ ΣΕ ΠΡΩΤΟ ΡΑΝΤΕΒΟΥ", "items": ["ΛΟΥΛΟΥΔΙΑ", "ΔΕΙΠΝΟ", "ΚΡΑΣΙ", "ΚΕΡΙΑ", "ΑΡΩΜΑ", "ΦΙΛΙ", "ΚΟΜΠΛΙΜΕΝΤΟ", "ΑΓΧΟΣ", "ΛΟΓΑΡΙΑΣΜΟΣ", "ΚΑΛΗΝΥΧΤΑ"]},
+        {"t": "10 ΡΟΜΑΝΤΙΚΕΣ ΤΑΙΝΙΕΣ", "items": ["ΤΙΤΑΝΙΚΟΣ", "ΤΟ ΗΜΕΡΟΛΟΓΙΟ", "ΜΙΑ ΩΡΑΙΑ ΠΡΙΤΣΙΛΑ", "DIRTY DANCING", "GREASE", "ΤΟ ΦΑΝΤΑΣΜΑ", "LA LA LAND", "ΝΟΤΙΝΓΚ ΧΙΛ", "MAMMA MIA!", "ΔΙΑΚΟΠΕΣ ΣΤΗ ΡΩΜΗ"]},
+        {"t": "10 ΧΑΪΔΕΥΤΙΚΑ ΓΙΑ ΤΟ ΤΑΙΡΙ", "items": ["ΜΩΡΟ", "ΑΓΑΠΗ", "ΚΑΡΔΙΑ ΜΟΥ", "ΖΩΗ ΜΟΥ", "ΓΛΥΚΙΑ ΜΟΥ", "ΨΥΧΟΥΛΑ", "ΚΟΥΚΛΑ", "ΑΣΤΕΡΙ ΜΟΥ", "ΜΑΤΑΚΙΑ ΜΟΥ", "ΘΗΣΑΥΡΕ ΜΟΥ"]},
+        {"t": "10 ΜΕΡΗ ΓΙΑ ΦΙΛΙ", "items": ["ΠΑΡΑΛΙΑ", "ΑΥΤΟΚΙΝΗΤΟ", "ΣΙΝΕΜΑ", "ΠΑΡΚΟ", "ΑΣΑΝΣΕΡ", "ΜΠΑΛΚΟΝΙ", "ΚΛΑΜΠ", "ΤΑΞΙ", "ΚΟΥΖΙΝΑ", "ΣΤΗ ΒΡΟΧΗ"]},
+        {"t": "10 ΠΡΑΓΜΑΤΑ ΣΕ ΜΠΑΤΣΕΛΟΡ", "items": ["ΠΟΤΑ", "ΜΟΥΣΙΚΗ", "ΧΟΡΟΣ", "ΠΕΠΛΟ", "ΣΦΗΝΑΚΙΑ", "ΜΠΑΛΟΝΙΑ", "ΣΤΟΛΕΣ", "ΠΑΙΧΝΙΔΙΑ", "ΤΟΥΡΤΑ", "ΦΩΤΟΓΡΑΦΙΕΣ"]},
+        {"t": "10 ΠΡΑΓΜΑΤΑ ΣΕ ΠΡΟΦΙΛ ΓΝΩΡΙΜΙΩΝ", "items": ["ΦΩΤΟΓΡΑΦΙΑ", "ΗΛΙΚΙΑ", "ΠΕΡΙΓΡΑΦΗ", "ΔΟΥΛΕΙΑ", "ΥΨΟΣ", "ΧΟΜΠΙ", "ΚΑΤΟΙΚΙΔΙΟ", "ΜΟΥΣΙΚΗ", "ΤΑΞΙΔΙΑ", "ΦΑΤΣΟΥΛΕΣ"]}
+      ]
+    }
+  }
+}
